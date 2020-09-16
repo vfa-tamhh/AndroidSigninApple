@@ -1,0 +1,2 @@
+rootProject.name='SignInApple'
+include ':app'
