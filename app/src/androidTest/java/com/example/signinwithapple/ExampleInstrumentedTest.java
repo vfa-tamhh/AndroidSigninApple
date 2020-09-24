@@ -1,4 +1,4 @@
-package com.truyen24s.signinapple;
+package com.example.signinwithapple;
 
 import android.content.Context;
 
@@ -21,7 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-
-        assertEquals("com.truyen24s.signinapple", appContext.getPackageName());
+        assertEquals("com.example.signinwithapple", appContext.getPackageName());
     }
 }

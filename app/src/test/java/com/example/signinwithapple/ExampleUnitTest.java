@@ -1,4 +1,4 @@
-package com.truyen24s.signinapple;
+package com.example.signinwithapple;
 
 import org.junit.Test;
 
